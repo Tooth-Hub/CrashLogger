@@ -14,6 +14,14 @@
         {
             "source": "CrashLogger.exe",
             "destination": "plugins/LiteLoader/CrashLogger.exe"
+        },
+        {
+            "source": "symsrv.dll",
+            "destination": "plugins/lib/symsrv.dll"
+        },
+        {
+            "source": "dbghelp.dll",
+            "destination": "plugins/lib/dbghelp.dll"
         }
     ],
     "possession": []
