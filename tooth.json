@@ -17,11 +17,11 @@
         },
         {
             "source": "symsrv.dll",
-            "destination": "plugins/lib/symsrv.dll"
+            "destination": "plugins/LiteLoader/symsrv.dll"
         },
         {
             "source": "dbghelp.dll",
-            "destination": "plugins/lib/dbghelp.dll"
+            "destination": "plugins/LiteLoader/dbghelp.dll"
         }
     ],
     "possession": []
